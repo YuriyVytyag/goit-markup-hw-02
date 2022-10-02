@@ -1,0 +1,10 @@
+.btn-galery {
+    background-color: #F5F4FA;
+    color: #212121;
+}
+
+.btn-galery:hover, .btn-galery:focus {
+    background-color: var(--accent-color);
+    color: var(--white-color);
+}
+
